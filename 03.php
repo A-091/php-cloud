@@ -125,3 +125,4 @@ foreach($animals as $animal){
 //=> 要素はcat
 //=> 要素はpanda
 //=> と表示される
+?>
