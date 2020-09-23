@@ -28,7 +28,9 @@ echo sum2(100);
 //strlen : 文字の長さを取得する
 $string = "ABCDEF";
 echo strlen($string)
+?>
 
+<?php
 //str_replace : 文字列を置換する
 $string = "I love Ruby!";
 // Ruby という文字列を　PHP に置換する

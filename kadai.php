@@ -12,7 +12,7 @@ $name = "091";
 $world = "'s World!";
 echo $hello . $name . $world;
 //$tech_boostに “tech “という文字列が代入されています。複合演算を使って、echo $tech_boostと実行するとCと表示されるように実装してみましょう。
-$tech_boost = 'tech';
+$tech_boost = 'tech ';
 $tech_boost .= 'boost';
 echo $tech_boost;
 //【応用】次のプログラムにはバグがあります。どこにバグが有るか調べて修正してみましょう。(バグは一つとは限りません。)
